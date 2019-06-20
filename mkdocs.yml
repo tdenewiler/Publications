@@ -8,4 +8,10 @@ repo_url: https://github.com/RoboPubs/Publications
 theme: material
 
 markdown_extensions:
-    - pymdownx.details
+  - pymdownx.details
+
+pages:
+  - 2010-2019: 'index.md'
+  - 2000-2009: '2000.md'
+  - 1990-1999: '1990.md'
+  - 1980-1989: '1980.md'
